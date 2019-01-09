@@ -1,0 +1,11 @@
+//Items
+item.examplemod.itemBasic.name=Basic Item
+
+//Tools
+item.examplemod.itemPickaxe.name=Basic Pickaxe
+
+//Blocks
+tile.examplemod.blockBasic.name=Basic Block
+
+//Tabs
+itemGroup.examplemod.tabExampleMod=Example Mod
